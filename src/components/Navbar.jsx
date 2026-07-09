@@ -23,7 +23,7 @@ function Navbar() {
           <a href="#konsultasi" className="text-stone-600 hover:text-teal-700 transition">Konsultasi Menu</a>
         </div>
         <button className="bg-stone-100 hover:bg-stone-200 text-stone-800 text-sm font-bold px-6 py-2.5 rounded-full transition duration-300 hidden md:block">
-          PUNYA RASYAD
+          MARI MAKAN
         </button>
       </div>
     </nav>
